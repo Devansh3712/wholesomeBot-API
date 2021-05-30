@@ -5,3 +5,4 @@ pydantic==1.8.2
 starlette==0.14.2
 typing-extensions==3.10.0.0
 uvicorn==0.13.4
+requests==2.25.1
