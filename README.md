@@ -1,2 +1,3 @@
 # wholesomeBot-API
-API for wholesomeBot
+
+API for [wholesomeBot](https://github.com/Devansh3712/wholesomeBot)
