@@ -73,5 +73,19 @@
         "I would risk corona for you <3",
         "You're a beautiful hooman!",
         "I love you infinitely!"
-    ]
+    ],
+    "information": {
+        "Author": "Devansh Singh",
+        "GitHub": "https://github.com/Devansh3712",
+        "Source Code": "https://github.com/Devansh3712/wholesomeBot-API",
+        "Bot": "https://top.gg/bot/753959496937898095",
+        "Socials": [
+            "https://instagram.com/whodevansh",
+            "https://fiverr.com/devansh3712",
+            "https://stackoverflow.com/users/13722027/devansh-singh",
+            "https://www.linkedin.com/in/devanshsingh3/",
+            "https://www.hackerrank.com/devanshamity"
+        ],
+        "Last Updated": "31-05-2021"
+    }
 }

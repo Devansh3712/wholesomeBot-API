@@ -34,19 +34,4 @@ def pickup() -> str:
 
 @app.get("/info")
 def info() -> str:
-
-    information = {
-        "Author": "Devansh Singh",
-        "GitHub": "https://github.com/Devansh3712",
-        "Source Code": "https://github.com/Devansh3712/wholesomeBot-API",
-        "Bot": "https://top.gg/bot/753959496937898095",
-        "Socials": [
-            "https://instagram.com/whodevansh",
-            "https://fiverr.com/devansh3712",
-            "https://stackoverflow.com/users/13722027/devansh-singh",
-            "https://www.linkedin.com/in/devanshsingh3/",
-            "https://www.hackerrank.com/devanshamity"
-        ],
-        "Last Updated": "31-05-2021"
-    }
-    return information
+    return JSON["information"]
