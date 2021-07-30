@@ -8,7 +8,7 @@ license = "MIT"
 [tool.poetry.dependencies]
 python = "^3.9"
 click = "^8.0.1"
-fastapi = "^0.67.0"
+fastapi = "^0.68.0"
 h11 = "^0.12.0"
 pydantic = "^1.8.2"
 starlette = "^0.14.2"
